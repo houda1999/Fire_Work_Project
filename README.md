@@ -1,3 +1,3 @@
 # Projet-du-algorithmic-art-course
 
-![Description du GIF](media/animation.gif)
+![Description du GIF](Designsanstitre-ezgif.com-video-to-gif-converter.gif)
